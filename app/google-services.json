@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654908903957",
+    "firebase_url": "https://musicmojo-c2de5.firebaseio.com",
+    "project_id": "musicmojo-c2de5",
+    "storage_bucket": "musicmojo-c2de5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654908903957:android:7a970d00b9aa281245341c",
+        "android_client_info": {
+          "package_name": "com.example.musicmojo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654908903957-opn125qof071mqkon4o2mlje2nc0rvi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicmojo",
+            "certificate_hash": "4a79726f952bb0ed73b6b5931da3be29f2f55b45"
+          }
+        },
+        {
+          "client_id": "654908903957-1blqtgqu18i9isto863nbf75ruvm687o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFMHkqaM2-uY67rMpKq9A3uIdPq0Btd94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654908903957-1blqtgqu18i9isto863nbf75ruvm687o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

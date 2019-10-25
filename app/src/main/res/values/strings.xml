@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MusicMojo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="last_updated">Last Updated</string>
+    <string name="date_count_format">%1$d @%2$s</string>
+    <string name="title">Love what you hear!!!!</string>
+    <string name="quotes">"MusicMojo is a rock band with a soundscape built upon elements of folk and classic sounds widespread, at times, with layers of progressive, pop, ambient and electronic textures creating a unique music experience that is truly global in nature but local in idea." </string>
+    <string name="subtitle"> - MusicMojo</string>
+    <string name="profile">Our Profile</string>
+    <string name="Crew">Our Crew</string>
+    <string name="profile1">Thomas William-Violistt \n Jacob Liam - lead Guitar \n Samuel Logan - Singer \n Raphel Gabriel - Keyboard \n Zack Mathis - Drums \n Lucas Justin - Singer </string>
+    <string name="profile2">Jacob Liam - lead Guitar </string>
+    <string name="profile3">Samuel Logan - Singer </string>
+    <string name="profile4">Raphel Gabriel - Keyboard</string>
+    <string name="profile5">Zack Mathis - Drums</string>
+    <string name="profile6">Lucas Justin - Singer</string>
+
+    <string name="description">MusicMojo was a 15 member ensemble cast the bands strength lies in its versatality and predictability. Thanks to 7 vocalists and 6 instrumentalist from the length the breadth of the world.</string>
+</resources>
